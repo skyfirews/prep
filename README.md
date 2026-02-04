@@ -6,9 +6,9 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 ## 📋 Table of Contents
 
-- [Python](#python)
-- [OOPs (Object-Oriented Programming)](#oops-object-oriented-programming)
-- [REST APIs](#rest-apis)
+- [Python](##python)
+- [OOPs (Object-Oriented Programming)](##oops-object-oriented-programming)
+- [REST APIs](##rest-apis)
 - [AWS Basics](#aws-basics)
 - [Caching](#caching)
 - [Databases (SQL, MySQL, PostgreSQL)](#databases-sql-mysql-postgresql)
@@ -389,3 +389,4 @@ This is a personal interview preparation repository. Feel free to use these guid
 **Happy Learning! 🚀**
 
 *Good luck with your interviews!*
+
