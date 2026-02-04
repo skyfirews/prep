@@ -6,9 +6,42 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 ## 📋 Table of Contents
 
+- [Python](#python)
 - [OOPs (Object-Oriented Programming)](#oops-object-oriented-programming)
 - [REST APIs](#rest-apis)
+- [AWS Basics](#aws-basics)
+- [Caching](#caching)
+- [Databases (SQL, MySQL, PostgreSQL)](#databases-sql-mysql-postgresql)
+- [DevOps](#devops)
+- [Express.js](#expressjs)
+- [FastAPI](#fastapi)
+- [Node.js (Core)](#nodejs-core)
+- [PHP & WordPress](#php--wordpress)
+- [System Design](#system-design)
 - [Quick Navigation](#quick-navigation)
+
+---
+
+## 🐍 Python
+
+### 📖 Available Guide
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🐍 Python Interview Prep](./Python_Interview_Prep.md)** | Comprehensive Python interview guide for senior engineers | Amazon, Flipkart, Razorpay level interviews |
+
+### 🎯 What's Covered
+
+- ✅ Python Overview (When to use, when to avoid)
+- ✅ Core Concepts (GIL, Memory Management, Variables, References)
+- ✅ Advanced Topics (Decorators, Generators, Metaclasses, Descriptors)
+- ✅ Context Managers & Exception Handling
+- ✅ Async/Await & Concurrency
+- ✅ Real-World Use Cases (E-commerce API Service)
+- ✅ Production Failures & Senior Engineer Perspectives
+- ✅ Interview Q&A (Basic, Intermediate, Advanced)
+
+**Read the Guide:** [Python Interview Prep](./Python_Interview_Prep.md)
 
 ---
 
@@ -75,6 +108,96 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 ---
 
+## ☁️ AWS Basics
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[☁️ AWS Basics](./AWS_Basics_Interview_Prep.md)** | IAM, EC2, Lambda, S3, RDS, VPC, Security Groups, Multi-AZ | Cloud engineers, SRE, backend architects |
+
+**Read the Guide:** [AWS Basics Interview Prep](./AWS_Basics_Interview_Prep.md)
+
+---
+
+## ⚡ Caching
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[⚡ Caching](./Caching_Interview_Prep.md)** | Cache-Aside, Read-Through, TTL, LRU, Redis, cache stampede | Backend engineers, API designers |
+
+**Read the Guide:** [Caching Interview Prep](./Caching_Interview_Prep.md)
+
+---
+
+## 🗄️ Databases (SQL, MySQL, PostgreSQL)
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🗄️ Databases](./Databases_Interview_Prep.md)** | SQL, Joins, Indexes, ACID, Transactions, Normalization, Security | Backend engineers, data engineers |
+
+**Read the Guide:** [Databases Interview Prep](./Databases_Interview_Prep.md)
+
+---
+
+## 🔧 DevOps
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🔧 DevOps](./DevOps_Interview_Prep.md)** | CI/CD, Docker, Kubernetes, Blue-Green, Canary, IaC, SRE | SRE, platform engineers, DevOps |
+
+**Read the Guide:** [DevOps Interview Prep](./DevOps_Interview_Prep.md)
+
+---
+
+## 🟢 Express.js
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🟢 Express.js](./Express_Interview_Prep.md)** | Middleware, routing, error handling, async in Node | Node.js backend engineers |
+
+**Read the Guide:** [Express.js Interview Prep](./Express_Interview_Prep.md)
+
+---
+
+## 🚀 FastAPI
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🚀 FastAPI](./FastAPI_Interview_Prep.md)** | Pydantic, Depends(), async, OpenAPI | Python backend engineers |
+
+**Read the Guide:** [FastAPI Interview Prep](./FastAPI_Interview_Prep.md)
+
+---
+
+## 🟩 Node.js (Core)
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🟩 Node.js](./Nodejs_Interview_Prep.md)** | Event loop, async/await, streams, Worker Threads | Node.js engineers |
+
+**Read the Guide:** [Node.js Interview Prep](./Nodejs_Interview_Prep.md)
+
+---
+
+## 🐘 PHP & WordPress
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🐘 PHP & WordPress](./PHP_WordPress_Interview_Prep.md)** | PHP OOP, security (SQL injection, XSS), WP hooks, plugins | Backend / CMS engineers |
+
+**Read the Guide:** [PHP & WordPress Interview Prep](./PHP_WordPress_Interview_Prep.md)
+
+---
+
+## 🏗️ System Design
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🏗️ System Design](./System_Design_Interview_Prep.md)** | Requirements, Monolith vs Microservices, scaling, consistency | Senior engineers, technical architects |
+
+**Read the Guide:** [System Design Interview Prep](./System_Design_Interview_Prep.md)
+
+---
+
 ## 🗺️ Quick Navigation
 
 ### By Topic
@@ -83,8 +206,24 @@ Welcome to the comprehensive interview preparation repository! This repository c
 - [📘 OOPs Brief Overview](./OOPs_Brief_Guide.md) - General concepts, quick reference
 - [🔬 OOPs In-Depth Guide](./OOPs_Interview_Prep.md) - Advanced topics, senior-level content
 
+#### Python
+- [🐍 Python Interview Prep](./Python_Interview_Prep.md) - Senior-level Python concepts
+
 #### API Design
 - [🔗 REST API Guide](./REST_API_Interview_Prep.md) - Complete REST API preparation
+
+#### Cloud & Backend
+- [☁️ AWS Basics](./AWS_Basics_Interview_Prep.md) - IAM, EC2, S3, RDS, VPC
+- [⚡ Caching](./Caching_Interview_Prep.md) - Cache strategies, Redis
+- [🗄️ Databases](./Databases_Interview_Prep.md) - SQL, indexes, ACID
+- [🔧 DevOps](./DevOps_Interview_Prep.md) - CI/CD, Docker, K8s
+- [🏗️ System Design](./System_Design_Interview_Prep.md) - Architecture, scaling
+
+#### Frameworks & Runtimes
+- [🟢 Express.js](./Express_Interview_Prep.md) - Node.js web framework
+- [🚀 FastAPI](./FastAPI_Interview_Prep.md) - Python API framework
+- [🟩 Node.js](./Nodejs_Interview_Prep.md) - Event loop, async
+- [🐘 PHP & WordPress](./PHP_WordPress_Interview_Prep.md) - PHP, WP hooks
 
 ### By Use Case
 
@@ -95,17 +234,29 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 **💼 Interview Preparation (Mid-Level)**
 1. Review [OOPs Brief Guide](./OOPs_Brief_Guide.md) for fundamentals
-2. Study [REST API Guide](./REST_API_Interview_Prep.md) for backend topics
-3. Practice interview questions from both guides
+2. Study [Python Interview Prep](./Python_Interview_Prep.md) for language-specific concepts
+3. Study [REST API Guide](./REST_API_Interview_Prep.md) for backend topics
+4. Practice interview questions from all guides
 
 **🏗️ Senior/Architect Interview**
-1. Deep dive into [OOPs In-Depth Guide](./OOPs_Interview_Prep.md)
-2. Review SOLID principles, design patterns, memory management
-3. Study architectural examples and advanced concepts
+1. Deep dive into [Python Interview Prep](./Python_Interview_Prep.md) for language internals
+2. Deep dive into [OOPs In-Depth Guide](./OOPs_Interview_Prep.md)
+3. Review SOLID principles, design patterns, memory management
+4. Study architectural examples and advanced concepts
 
 **⚡ Last-Minute Review**
+- [Python Interview Prep - Quick Revision](./Python_Interview_Prep.md#9-quick-revision)
 - [OOPs Brief Guide - Quick Reference](./OOPs_Brief_Guide.md#-quick-reference)
 - [REST API Guide - Quick Revision](./REST_API_Interview_Prep.md#-quick-revision)
+- [AWS Basics - Quick Revision](./AWS_Basics_Interview_Prep.md#9-quick-revision)
+- [Caching - Quick Revision](./Caching_Interview_Prep.md#9-quick-revision)
+- [Databases - Quick Revision](./Databases_Interview_Prep.md#9-quick-revision)
+- [DevOps - Quick Revision](./DevOps_Interview_Prep.md#9-quick-revision)
+- [Express.js - Quick Revision](./Express_Interview_Prep.md#9-quick-revision)
+- [FastAPI - Quick Revision](./FastAPI_Interview_Prep.md#9-quick-revision)
+- [Node.js - Quick Revision](./Nodejs_Interview_Prep.md#9-quick-revision)
+- [PHP & WordPress - Quick Revision](./PHP_WordPress_Interview_Prep.md#9-quick-revision)
+- [System Design - Quick Revision](./System_Design_Interview_Prep.md#9-quick-revision)
 
 ---
 
@@ -132,11 +283,13 @@ Welcome to the comprehensive interview preparation repository! This repository c
 ### Week 2: Intermediate
 - [ ] Review SOLID Principles
 - [ ] Study Object Relationships
+- [ ] Read [Python Interview Prep](./Python_Interview_Prep.md) - Core Concepts
 - [ ] Read [REST API Guide](./REST_API_Interview_Prep.md)
 
 ### Week 3: Advanced
+- [ ] Deep dive into [Python Interview Prep](./Python_Interview_Prep.md) - Advanced Topics
 - [ ] Deep dive into [OOPs In-Depth Guide](./OOPs_Interview_Prep.md)
-- [ ] Study memory management internals
+- [ ] Study memory management internals (GIL, GC)
 - [ ] Review design patterns
 
 ### Week 4: Interview Prep
@@ -162,10 +315,28 @@ Welcome to the comprehensive interview preparation repository! This repository c
 - [Refactoring.Guru - OOP Principles](https://refactoring.guru/design-patterns/oop-principles)
 - [SOLID Principles Explained](https://en.wikipedia.org/wiki/SOLID)
 
+### Python
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Real Python](https://realpython.com/) - In-depth Python tutorials
+- [Ned Batchelder's Blog](https://nedbatchelder.com/blog/) - Python internals
+
 ### REST APIs
 - [Roy Fielding's Original Dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 - [RFC 7231 (HTTP/1.1 Semantics)](https://tools.ietf.org/html/rfc7231)
+
+### AWS, Caching, Databases, DevOps, System Design
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Redis Documentation](https://redis.io/docs/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)
+
+### Express.js, FastAPI, Node.js, PHP & WordPress
+- [Express.js Documentation](https://expressjs.com/)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [Node.js Documentation](https://nodejs.org/docs/)
+- [WordPress Developer Documentation](https://developer.wordpress.org/)
 
 ---
 
@@ -177,17 +348,26 @@ This is a personal interview preparation repository. Feel free to use these guid
 
 ## 📅 Last Updated
 
-- **OOPs Brief Guide**: January 2025
-- **OOPs In-Depth Guide**: January 2025
-- **REST API Guide**: January 2025
+- **Python, OOPs, REST API**: January 2025
+- **AWS, Caching, Databases, DevOps, Express.js, FastAPI, Node.js, PHP & WordPress, System Design**: February 2025
 
 ---
 
 ## ⭐ Quick Links
 
+- [🐍 Python Interview Prep](./Python_Interview_Prep.md)
 - [📘 OOPs Brief Guide](./OOPs_Brief_Guide.md)
 - [🔬 OOPs In-Depth Guide](./OOPs_Interview_Prep.md)
 - [🔗 REST API Guide](./REST_API_Interview_Prep.md)
+- [☁️ AWS Basics](./AWS_Basics_Interview_Prep.md)
+- [⚡ Caching](./Caching_Interview_Prep.md)
+- [🗄️ Databases](./Databases_Interview_Prep.md)
+- [🔧 DevOps](./DevOps_Interview_Prep.md)
+- [🟢 Express.js](./Express_Interview_Prep.md)
+- [🚀 FastAPI](./FastAPI_Interview_Prep.md)
+- [🟩 Node.js](./Nodejs_Interview_Prep.md)
+- [🐘 PHP & WordPress](./PHP_WordPress_Interview_Prep.md)
+- [🏗️ System Design](./System_Design_Interview_Prep.md)
 
 ---
 
