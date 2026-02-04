@@ -18,6 +18,7 @@ Welcome to the comprehensive interview preparation repository! This repository c
 - [Node.js (Core)](#nodejs-core)
 - [PHP & WordPress](#php--wordpress)
 - [System Design](#system-design)
+- [Design Patterns](#design-patterns)
 - [Quick Navigation](#quick-navigation)
 
 ---
@@ -198,13 +199,24 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 ---
 
+## 🎨 Design Patterns
+
+| Guide | Description | Best For |
+|-------|-------------|----------|
+| **[🎨 Design Patterns](./Design_Patterns_Study_Notes.md)** | Creational, Structural, Behavioral patterns with Python examples & summary table | Exam prep, senior/architect interviews, OOP design rounds |
+
+**Read the Guide:** [Design Patterns Study Notes](./Design_Patterns_Study_Notes.md)
+
+---
+
 ## 🗺️ Quick Navigation
 
 ### By Topic
 
-#### Object-Oriented Programming
+#### Object-Oriented Programming & Design
 - [📘 OOPs Brief Overview](./OOPs_Brief_Guide.md) - General concepts, quick reference
 - [🔬 OOPs In-Depth Guide](./OOPs_Interview_Prep.md) - Advanced topics, senior-level content
+- [🎨 Design Patterns](./Design_Patterns_Study_Notes.md) - Singleton, Factory, Adapter, Observer, Decorator, Proxy, Facade, Strategy, Composite, Chain of Responsibility
 
 #### Python
 - [🐍 Python Interview Prep](./Python_Interview_Prep.md) - Senior-level Python concepts
@@ -257,6 +269,7 @@ Welcome to the comprehensive interview preparation repository! This repository c
 - [Node.js - Quick Revision](./Nodejs_Interview_Prep.md#9-quick-revision)
 - [PHP & WordPress - Quick Revision](./PHP_WordPress_Interview_Prep.md#9-quick-revision)
 - [System Design - Quick Revision](./System_Design_Interview_Prep.md#9-quick-revision)
+- [Design Patterns - Summary Table](./Design_Patterns_Study_Notes.md#summary-table-all-patterns-at-a-glance)
 
 ---
 
@@ -290,7 +303,7 @@ Welcome to the comprehensive interview preparation repository! This repository c
 - [ ] Deep dive into [Python Interview Prep](./Python_Interview_Prep.md) - Advanced Topics
 - [ ] Deep dive into [OOPs In-Depth Guide](./OOPs_Interview_Prep.md)
 - [ ] Study memory management internals (GIL, GC)
-- [ ] Review design patterns
+- [ ] Review [Design Patterns Study Notes](./Design_Patterns_Study_Notes.md) and summary table
 
 ### Week 4: Interview Prep
 - [ ] Practice all interview questions
@@ -310,9 +323,9 @@ Welcome to the comprehensive interview preparation repository! This repository c
 
 ## 🔗 External Resources
 
-### OOPs
+### OOPs & Design Patterns
 - [Python Official Docs - Classes](https://docs.python.org/3/tutorial/classes.html)
-- [Refactoring.Guru - OOP Principles](https://refactoring.guru/design-patterns/oop-principles)
+- [Refactoring.Guru - Design Patterns](https://refactoring.guru/design-patterns) - Creational, Structural, Behavioral
 - [SOLID Principles Explained](https://en.wikipedia.org/wiki/SOLID)
 
 ### Python
@@ -350,6 +363,7 @@ This is a personal interview preparation repository. Feel free to use these guid
 
 - **Python, OOPs, REST API**: January 2025
 - **AWS, Caching, Databases, DevOps, Express.js, FastAPI, Node.js, PHP & WordPress, System Design**: February 2025
+- **Design Patterns Study Notes**: February 2025
 
 ---
 
@@ -368,6 +382,7 @@ This is a personal interview preparation repository. Feel free to use these guid
 - [🟩 Node.js](./Nodejs_Interview_Prep.md)
 - [🐘 PHP & WordPress](./PHP_WordPress_Interview_Prep.md)
 - [🏗️ System Design](./System_Design_Interview_Prep.md)
+- [🎨 Design Patterns](./Design_Patterns_Study_Notes.md)
 
 ---
 
